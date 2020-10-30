@@ -15,3 +15,4 @@ I'm Alsam
 - 😄 Pronouns: He/Him
 <!--- ⚡ Fun fact: ...
 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsam123&show_icons=true)
