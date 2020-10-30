@@ -11,6 +11,6 @@
 <!--- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about anything !
 <!--- 📫 How to reach me: ...-->
-- 😄 Pronouns: ... He/Him
+- 😄 Pronouns: He/Him
 <!--- ⚡ Fun fact: ...
 -->
