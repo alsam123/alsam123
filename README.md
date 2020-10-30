@@ -15,7 +15,7 @@ I'm Alsam
 - 😄 Pronouns: He/Him
 <!--- ⚡ Fun fact: ...
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsam123&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsam123&layout=compact&text_color=#262626)
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=alsam123&theme=graywhite&show_icons=true)
 
