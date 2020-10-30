@@ -17,3 +17,5 @@ I'm Alsam
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsam123&layout=compact)
+Connect me at 
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/alsam-salim-a30648177/)
