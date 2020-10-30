@@ -17,5 +17,5 @@ I'm Alsam
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsam123&layout=compact)<br><br>
-<img align="left" alt="Xidhu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alsam123&show_icons=true&theme=graywhite" />
+![My github stats](https://github-readme-stats.vercel.app/api?username=alsam123&theme=gotham&show_icons=true)
 
