@@ -17,5 +17,5 @@ I'm Alsam
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsam123&layout=compact&text_color=#262626)
 
-<!--![My Activities](https://github-readme-stats.vercel.app/api?username=alsam123&theme=graywhite&show_icons=true)-->
+<!--![My Activities](https://github-readme-stats.vercel.app/api?username=alsam123&theme=dark&show_icons=true)-->
 
